@@ -1,0 +1,52 @@
+# QuickRent - Gadget Rentals
+
+## Overview
+QuickRent is a mock startup platform for renting gadgets like laptops, cameras, and gaming consoles. This project demonstrates a responsive and visually appealing landing page built with HTML and CSS, showcasing modern UI design practices.
+
+## Features
+- **Responsive Design:** Optimized for desktop, tablet, and mobile devices.
+- **Hero Banner:** Includes a catchy tagline and a call-to-action button.
+- **Features Section:** Highlights key features like variety, affordability, and quick delivery.
+- **Gadget Listing:** Displays gadgets available for rent with pricing and action buttons.
+- **Contact Us Section:** Provides a functional contact form for users.
+
+## Technologies Used
+- HTML5
+- CSS3
+- Google Fonts (Roboto)
+
+## How to Run the Project
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/quickrent-landing-page.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd quickrent-landing-page
+    ```
+
+3. Open the `index.html` file in a web browser.
+
+## File Structure
+```
+quickrent-landing-page/
+├── index.html        # Main HTML file
+├── styles.css        # CSS styles
+├── icons/            # Icon assets for the features section
+└── README.md         # Project documentation
+```
+
+## Screenshots
+### Desktop View:
+![Desktop View](path-to-screenshot-desktop.png)
+
+### Mobile View:
+![Mobile View](path-to-screenshot-mobile.png)
+
+## Future Enhancements
+- Add JavaScript functionality for dynamic interactions.
+- Integrate a backend for user authentication and gadget listings.
+
+## License
+This project is open-source and available under the [MIT License](LICENSE).
